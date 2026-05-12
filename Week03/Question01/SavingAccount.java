@@ -1,5 +1,5 @@
 package Week03.Question01;
-
+// Manages bank account details - keeps balance secure using encapsulation
 class SavingsAccount {
 
     private String accountNumber;
