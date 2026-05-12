@@ -1,6 +1,6 @@
 package Week03.Question03;
 import java.util.Scanner;
-
+// Calculates employee bonus based on performance rating - displays total salary
 class Employee {
 
     // Private attributes
