@@ -1,5 +1,5 @@
 package Week03.Question02;
-
+// Manages retail store products - validates price and quantity inputs
 import java.util.Scanner;
 
 class Product{
